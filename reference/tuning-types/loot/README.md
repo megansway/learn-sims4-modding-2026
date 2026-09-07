@@ -1,8 +1,8 @@
 # Loot Actions
 
-> **Status:** ◆ Draft  
+> **Status:** ✓ Documented   
 > **Last verified:** 2026-09-07  
-> **Game version:** To be verified against current extracted tuning  
+> **Game version:** 1.127.41.1030  
 > **Pack requirements:** Varies by loot tuning
 
 ---
