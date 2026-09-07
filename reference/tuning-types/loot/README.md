@@ -1,6 +1,6 @@
 # Loot Actions
 
-> **Status:** ✓ Documented   
+> **Status:** ✓ Up-to-date   
 > **Last verified:** 2026-09-07  
 > **Game version:** 1.127.41.1030  
 > **Pack requirements:** Varies by loot tuning
