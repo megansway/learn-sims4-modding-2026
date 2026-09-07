@@ -20,7 +20,7 @@ The reference library uses these symbols to show the current state of each page:
 
 | Symbol | Meaning |
 |---|---|
-| ✓ | Documented |
+| ✓ | Up-to-date  |
 | ◆ | Draft |
 | ■ | Planned |
 | ▲ | Needs investigation |
