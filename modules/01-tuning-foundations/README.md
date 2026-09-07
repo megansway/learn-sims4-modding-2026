@@ -45,3 +45,15 @@ Interaction
            +--> Statistic
            |
            +--> Trait
+
+This is why reading Sims 4 tuning can feel confusing at first.
+
+You may open one tuning file expecting to find the entire behavior, only to discover that it points somewhere else.
+
+Then that resource points somewhere else.
+
+Then that resource points somewhere else.
+
+That is normal.
+
+Learning to follow those connections is one of the most important skills in Sims 4 modding.
