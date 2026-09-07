@@ -1,6 +1,6 @@
 # Snippet Tunings
 
-> **Status:** ◆ Draft  
+> **Status:** ✓ Up-to-date  
 > **Last verified:** 2026-09-07  
 > **Game version:** To be verified against current extracted tuning  
 > **Pack requirements:** Varies by snippet
