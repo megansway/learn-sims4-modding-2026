@@ -45,6 +45,7 @@ Interaction
            +--> Statistic
            |
            +--> Trait
+```text
 
 This is why reading Sims 4 tuning can feel confusing at first.
 
