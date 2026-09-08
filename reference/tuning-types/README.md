@@ -36,15 +36,15 @@ These are some of the tuning types and tuning-related systems you are likely to 
 
 | Status | Tuning Type |
 |---|---|
-| ◆ | Buff |
-| ◆ | Trait |
+| ✓ | Buff |
+| ✓ | Trait |
 | ◆ | Statistic |
 | ◆ | Commodity |
 | ◆ | Interaction |
-| ◆ | Loot |
-| ◆ | Snippet |
-| ◆ | Recipe |
-| ◆ | Test |
+| ✓ | Loot |
+| ✓ | Snippet |
+| ✓ | Recipe |
+| ✓ | Test |
 | ■ | Situation |
 | ■ | Situation Goal |
 | ■ | Aspiration |
