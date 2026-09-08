@@ -17,6 +17,14 @@ The goal of this repository is to collect Sims 4 modding information in one plac
 9. [Module 07 — Debugging & Maintenance](modules/07-debugging-and-maintenance/README.md)
 10. [Glossary](GLOSSARY.md)
 
+## Looking for a Specific Answer?
+
+If you already know what you're looking for and don't need a whole course, use the Reference Library:
+
+[Tuning Type Reference](reference/tuning-types/README.md)
+
+The reference library contains standalone explanations of individual Sims 4 tuning types and systems.
+
 ## Topics
 
 - Sims 4 tuning
