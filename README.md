@@ -33,8 +33,16 @@ The goal of this repository is to collect Sims 4 modding information in one plac
 - Debugging mods
 - Patch maintenance
 
-## Why This Exists
+## A Note From the Creator + Why This Project Exists
 
-Sims 4 modding information is often scattered across old forum posts, tutorials, Discord messages, archived documentation, and outdated guides.
+I’m not a master modder, and I’m not presenting myself as one. I’m learning too.
 
-This project is meant to make that information easier to find, easier to understand, and easier to verify.
+This repository exists because, while learning Sims 4 modding, I kept running into the same problem: useful information was scattered across old forum posts, tutorials, documentation, videos, community discussions, and resources written by people who already knew what they were doing.
+
+A lot of the knowledge in this project comes from the work of experienced modders, tool creators, documentation writers, and community members who have spent years figuring out how the game works. My goal is to bring that information into one place that is easier for other newer modders to navigate, explain how the pieces connect, and keep it as simple as possible.
+
+Think of this repository less as “an expert teaching stuff” and more as an organized learning library built from the knowledge the Sims 4 modding community has developed over time.
+
+If this project saves someone from spending hours digging through scattered information just to answer one question, then it is doing what I made it for.
+
+xo Megan
